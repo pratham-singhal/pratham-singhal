@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratham-singhal
 - 👀 I’m interested in data structure and algorithm
-- 🌱 I’m currently learning c++ c python
-- 💞️ I’m looking to collaborate on any coding related proejct
+- 🌱 I’m currently learning c++ , Java ,  c ,  python
+- 💞️ I’m looking to collaborate on any coding related project
 - 📫 How to reach me ...
 
 <!---
